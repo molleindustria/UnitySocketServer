@@ -3,7 +3,7 @@
 This is an implementation of the js/node rock paper scissor example with a Unity client.
 There is a WebGL build in the *client* sub folder but the project should work both on browser and as a standalone executable.
 
-The client's source is shared in a separate repository as package.
+The client's source is [downloadable separately as a unitypackage](https://drive.google.com/file/d/14UxPy7PyQj0Glx9FywdCVI_oTSyYSbxD/view?usp=sharing).
 
 Controls: WASD to move, K and L to change weapon.
 
@@ -39,7 +39,7 @@ All clients should run the same code so you need to rebuild, close and reopen th
 You should see the WebGL build that comes with this repository
 
 ### Building an executable client
-* Download the client package
+* Download the [client package](https://drive.google.com/file/d/14UxPy7PyQj0Glx9FywdCVI_oTSyYSbxD/view?usp=sharing)
 * Create a new unity project and import the package
 * Test it in the editor first
 * Build an executable for your system File > build settings > Build
